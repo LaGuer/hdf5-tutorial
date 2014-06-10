@@ -1,0 +1,1 @@
+ipython nbconvert tutorial.ipynb --to slides --post serve
