@@ -1,1 +1,1 @@
-ipython nbconvert tutorial.ipynb --to slides --post serve
+ipython nbconvert tutorial.ipynb --to slides --post serve --config slides_config.py
